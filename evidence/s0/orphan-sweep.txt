@@ -1,0 +1,24 @@
+======================================================
+ deskai orphan sweep · 2026-07-29 · ap-southeast-1
+======================================================
+
+--- Ephemeral resources past TeardownBy
+
+--- Big-ticket services (tag-independent)
+  clean  OpenSearch Serverless
+  clean  OpenSearch domains
+  clean  SageMaker endpoints
+  clean  SageMaker training
+  clean  Aurora/RDS clusters
+  clean  RDS instances
+  clean  Bedrock KBs
+  clean  Bedrock agents
+  clean  Kendra indexes (service not subscribed)
+  clean  NAT gateways
+
+--- TRIPWIRE: provisioned throughput (must always be empty)
+  clean  no provisioned throughput
+
+======================================================
+ SWEEP CLEAN — safe to stop.
+======================================================

@@ -1,0 +1,119 @@
+skill_id,task,sprint,sprint_name,skill_statement,status
+1.1.1,1.1,S1,Ingest & Extract,Create comprehensive architectural designs,NOT STARTED
+1.1.2,1.1,S1,Ingest & Extract,Develop technical PoC implementations,NOT STARTED
+1.1.3,1.1,S1,Ingest & Extract,Standardize technical components,NOT STARTED
+1.2.1,1.2,S4,Model Selection & Customization,Assess and choose FMs,NOT STARTED
+1.2.2,1.2,S4,Model Selection & Customization,Create flexible architecture patterns,NOT STARTED
+1.2.3,1.2,S4,Model Selection & Customization,Design resilient AI systems,NOT STARTED
+1.2.4,1.2,S4,Model Selection & Customization,Implement FM customization and lifecycle management,NOT STARTED
+1.3.1,1.3,S1,Ingest & Extract,Comprehensive data validation workflows,NOT STARTED
+1.3.2,1.3,S1,Ingest & Extract,Create data processing workflows for complex data types,NOT STARTED
+1.3.3,1.3,S1,Ingest & Extract,Format input data for FM inference,NOT STARTED
+1.3.4,1.3,S1,Ingest & Extract,Enhance input data quality,NOT STARTED
+1.4.1,1.4,S2,RAG & Vector Stores,Create advanced vector database architectures,NOT STARTED
+1.4.2,1.4,S2,RAG & Vector Stores,Develop comprehensive metadata frameworks,NOT STARTED
+1.4.3,1.4,S2,RAG & Vector Stores,Implement high-performance vector databases architectures,NOT STARTED
+1.4.4,1.4,S2,RAG & Vector Stores,Create integration components,NOT STARTED
+1.4.5,1.4,S2,RAG & Vector Stores,Design and deploy maintenance systems,NOT STARTED
+1.5.1,1.5,S2,RAG & Vector Stores,Design effective document segmentation strategies that preserve document context and logical structure,NOT STARTED
+1.5.2,1.5,S2,RAG & Vector Stores,Select and configure optimal embedding solutions,NOT STARTED
+1.5.3,1.5,S2,RAG & Vector Stores,Deploy and configure vector search solutions,NOT STARTED
+1.5.4,1.5,S2,RAG & Vector Stores,Advanced search architectures,NOT STARTED
+1.5.5,1.5,S2,RAG & Vector Stores,Query handling systems,NOT STARTED
+1.5.6,1.5,S2,RAG & Vector Stores,Integration with FMs,NOT STARTED
+1.6.1,1.6,S3,Prompting & Safety,Effective model instruction frameworks,NOT STARTED
+1.6.2,1.6,S3,Prompting & Safety,Interactive AI systems,NOT STARTED
+1.6.3,1.6,S3,Prompting & Safety,Prompt management and governance,NOT STARTED
+1.6.4,1.6,S3,Prompting & Safety,Quality assurance systems,NOT STARTED
+1.6.5,1.6,S3,Prompting & Safety,Foundation model performance,NOT STARTED
+1.6.6,1.6,S3,Prompting & Safety,Complex prompt systems,NOT STARTED
+2.1.1,2.1,S5,Agentic & FM APIs,Develop autonomous systems,NOT STARTED
+2.1.2,2.1,S5,Agentic & FM APIs,Create advanced problem-solving systems,NOT STARTED
+2.1.3,2.1,S5,Agentic & FM APIs,Develop safeguarded AI workflows,NOT STARTED
+2.1.4,2.1,S5,Agentic & FM APIs,Create model coordination systems,NOT STARTED
+2.1.5,2.1,S5,Agentic & FM APIs,Develop collaborative AI systems,NOT STARTED
+2.1.6,2.1,S5,Agentic & FM APIs,Implement intelligent tool integrations,NOT STARTED
+2.1.7,2.1,S5,Agentic & FM APIs,Develop model extension frameworks,NOT STARTED
+2.2.1,2.2,S4,Model Selection & Customization,Deploy FMs based on application needs,NOT STARTED
+2.2.2,2.2,S4,Model Selection & Customization,Deploy FM solutions,NOT STARTED
+2.2.3,2.2,S4,Model Selection & Customization,Develop optimized FM deployment strategies,NOT STARTED
+2.3.1,2.3,S6,Enterprise Integration,Create enterprise connectivity solutions,NOT STARTED
+2.3.2,2.3,S6,Enterprise Integration,Develop integrated AI capabilities,NOT STARTED
+2.3.3,2.3,S6,Enterprise Integration,Create secure access frameworks,NOT STARTED
+2.3.4,2.3,S6,Enterprise Integration,Develop cross-environment AI solutions,NOT STARTED
+2.3.5,2.3,S6,Enterprise Integration,Implement continuous integration and continuous delivery (CI/CD) pipelines and GenAI gateway architectures,NOT STARTED
+2.4.1,2.4,S5,Agentic & FM APIs,Create flexible model interaction systems,NOT STARTED
+2.4.2,2.4,S5,Agentic & FM APIs,Develop real-time AI interaction systems,NOT STARTED
+2.4.3,2.4,S5,Agentic & FM APIs,Create resilient FM systems,NOT STARTED
+2.4.4,2.4,S5,Agentic & FM APIs,Develop intelligent model routing systems,NOT STARTED
+2.5.1,2.5,S6,Enterprise Integration,Create FM API interfaces for GenAI workloads,NOT STARTED
+2.5.2,2.5,S6,Enterprise Integration,Develop accessible AI interfaces,NOT STARTED
+2.5.3,2.5,S6,Enterprise Integration,Create business system enhancements,NOT STARTED
+2.5.4,2.5,S6,Enterprise Integration,Enhance developer productivity,NOT STARTED
+2.5.5,2.5,S6,Enterprise Integration,Develop advanced GenAI applications,NOT STARTED
+2.5.6,2.5,S6,Enterprise Integration,Improve troubleshooting efficiency,NOT STARTED
+3.1.1,3.1,S3,Prompting & Safety,Develop content safety systems,NOT STARTED
+3.1.2,3.1,S3,Prompting & Safety,Create content safety frameworks for outputs,NOT STARTED
+3.1.3,3.1,S3,Prompting & Safety,Develop accuracy verification systems,NOT STARTED
+3.1.4,3.1,S3,Prompting & Safety,Create defense-in-depth systems,NOT STARTED
+3.1.5,3.1,S3,Prompting & Safety,Implement advanced threat detection,NOT STARTED
+3.2.1,3.2,S7,Security & Governance,Develop protected AI environments,NOT STARTED
+3.2.2,3.2,S7,Security & Governance,Develop privacy-preserving systems,NOT STARTED
+3.2.3,3.2,S7,Security & Governance,Create privacy-focused AI systems,NOT STARTED
+3.3.1,3.3,S7,Security & Governance,Develop compliance frameworks,NOT STARTED
+3.3.2,3.3,S7,Security & Governance,Implement data source tracking,NOT STARTED
+3.3.3,3.3,S7,Security & Governance,Create organizational governance systems for FMs,NOT STARTED
+3.3.4,3.3,S7,Security & Governance,Implement monitoring and advanced governance controls,NOT STARTED
+3.4.1,3.4,S7,Security & Governance,Develop transparent AI systems in FM outputs,NOT STARTED
+3.4.2,3.4,S7,Security & Governance,Apply fairness evaluations,NOT STARTED
+3.4.3,3.4,S7,Security & Governance,Develop policy compliant AI-systems,NOT STARTED
+4.1.1,4.1,S8,Cost & Performance,Develop token efficiency systems,NOT STARTED
+4.1.2,4.1,S8,Cost & Performance,Create cost-effective model selection frameworks,NOT STARTED
+4.1.3,4.1,S8,Cost & Performance,Develop high-performance FM systems,NOT STARTED
+4.1.4,4.1,S8,Cost & Performance,Create intelligent caching systems,NOT STARTED
+4.2.1,4.2,S8,Cost & Performance,Create responsive AI systems,NOT STARTED
+4.2.2,4.2,S8,Cost & Performance,Enhance retrieval performance,NOT STARTED
+4.2.3,4.2,S8,Cost & Performance,Implement FM throughput optimization,NOT STARTED
+4.2.4,4.2,S8,Cost & Performance,Enhance FM performance,NOT STARTED
+4.2.5,4.2,S8,Cost & Performance,Create efficient resource allocation systems,NOT STARTED
+4.2.6,4.2,S8,Cost & Performance,Optimize FM system performance,NOT STARTED
+4.3.1,4.3,S9,Observability & Evaluation,Create holistic observability systems,NOT STARTED
+4.3.2,4.3,S9,Observability & Evaluation,Implement GenAI monitoring systems,NOT STARTED
+4.3.3,4.3,S9,Observability & Evaluation,Develop integrated observability systems,NOT STARTED
+4.3.4,4.3,S9,Observability & Evaluation,Create tool performance frameworks,NOT STARTED
+4.3.5,4.3,S9,Observability & Evaluation,Create vector store operational management systems,NOT STARTED
+4.3.6,4.3,S9,Observability & Evaluation,Develop FM-troubleshooting frameworks,NOT STARTED
+5.1.1,5.1,S9,Observability & Evaluation,Develop assessment frameworks,NOT STARTED
+5.1.2,5.1,S9,Observability & Evaluation,Create systematic model evaluation systems,NOT STARTED
+5.1.3,5.1,S9,Observability & Evaluation,Develop user-centered evaluation mechanisms,NOT STARTED
+5.1.4,5.1,S9,Observability & Evaluation,Create systematic quality assurance processes,NOT STARTED
+5.1.5,5.1,S9,Observability & Evaluation,Develop comprehensive assessment systems,NOT STARTED
+5.1.6,5.1,S9,Observability & Evaluation,Implement retrieval quality testing,NOT STARTED
+5.1.7,5.1,S9,Observability & Evaluation,Create reporting systems,NOT STARTED
+5.1.8,5.1,S9,Observability & Evaluation,Create deployment validation systems,NOT STARTED
+5.2.1,5.2,S10,Troubleshooting & Final Assembly,Resolve content handling issues,NOT STARTED
+5.2.2,5.2,S10,Troubleshooting & Final Assembly,Diagnose FM integration issues,NOT STARTED
+5.2.3,5.2,S10,Troubleshooting & Final Assembly,Troubleshoot prompt engineering problems,NOT STARTED
+5.2.4,5.2,S10,Troubleshooting & Final Assembly,Troubleshoot retrieval system issues,NOT STARTED
+5.2.5,5.2,S10,Troubleshooting & Final Assembly,Troubleshoot prompt maintenance issues,NOT STARTED
+E-1.1.1,1.1,S1,Ingest & Extract,Flask/Streamlit web interface,STRETCH
+E-1.1.2,1.1,S1,Ingest & Extract,Knowledge base with policy information,STRETCH
+E-1.1.3,1.1,S1,Ingest & Extract,Content filtering for sensitive info,STRETCH
+E-1.1.4,1.1,S1,Ingest & Extract,Feedback mechanism,STRETCH
+E-1.6.1,1.6,S3,Prompting & Safety,Single-scenario prototype first,STRETCH
+E-1.6.2,1.6,S3,Prompting & Safety,Prompt library for common issues,STRETCH
+E-1.6.3,1.6,S3,Prompting & Safety,Basic guardrails before expanding,STRETCH
+E-1.6.4,1.6,S3,Prompting & Safety,Testing framework early,STRETCH
+E-1.6.5,1.6,S3,Prompting & Safety,Effectiveness metrics,STRETCH
+E-2.5.1,2.5,S6,Enterprise Integration,Multi-language support,STRETCH
+E-2.5.2,2.5,S6,Enterprise Integration,Sentiment analysis component,STRETCH
+E-2.5.3,2.5,S6,Enterprise Integration,Recommendation system for agents,STRETCH
+E-2.5.4,2.5,S6,Enterprise Integration,Amazon Lex chatbot interface,STRETCH
+E-3.2.1,3.2,S7,Security & Governance,Lake Formation fine-grained access,STRETCH
+E-3.2.2,3.2,S7,Security & Governance,Role-based access levels,STRETCH
+E-3.2.3,3.2,S7,Security & Governance,Real-time PII detection monitoring,STRETCH
+E-3.2.4,3.2,S7,Security & Governance,Automated remediation workflows,STRETCH
+E-3.2.5,3.2,S7,Security & Governance,Differential privacy,STRETCH
+E-3.2.6,3.2,S7,Security & Governance,Anonymization beyond masking,STRETCH
+E-3.2.7,3.2,S7,Security & Governance,Automated compliance reports,STRETCH
+E-3.2.8,3.2,S7,Security & Governance,Continuous compliance monitoring,STRETCH

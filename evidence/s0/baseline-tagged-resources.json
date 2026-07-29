@@ -1,0 +1,25 @@
+{
+    "ResourceTagMappingList": [
+        {
+            "ResourceARN": "arn:aws:s3:::REDACTED-PREEXISTING-BUCKET-2",
+            "Tags": [
+                {
+                    "Key": "Project",
+                    "Value": "AIP-C01"
+                },
+                {
+                    "Key": "Task",
+                    "Value": "1.1"
+                },
+                {
+                    "Key": "Lifecycle",
+                    "Value": "Temporary"
+                },
+                {
+                    "Key": "Purpose",
+                    "Value": "KnowledgeBase"
+                }
+            ]
+        }
+    ]
+}

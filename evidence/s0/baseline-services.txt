@@ -1,0 +1,48 @@
+=== S3 buckets
+{
+    "Buckets": [
+        {
+            "Name": "REDACTED-PREEXISTING-BUCKET-1",
+            "CreationDate": "2026-07-23T05:07:00+00:00",
+            "BucketArn": "arn:aws:s3:::REDACTED-PREEXISTING-BUCKET-1"
+        },
+        {
+            "Name": "REDACTED-PREEXISTING-BUCKET-2",
+            "CreationDate": "2026-07-24T09:02:10+00:00",
+            "BucketArn": "arn:aws:s3:::REDACTED-PREEXISTING-BUCKET-2"
+        },
+        {
+            "Name": "REDACTED-PREEXISTING-BUCKET-3",
+            "CreationDate": "2026-07-25T02:00:17+00:00",
+            "BucketArn": "arn:aws:s3:::REDACTED-PREEXISTING-BUCKET-3"
+        }
+    ],
+    "Owner": {
+        "ID": "REDACTED"
+    },
+    "Prefix": null
+}
+=== Lambda functions
+{
+    "Functions": []
+}
+=== DynamoDB tables
+{
+    "TableNames": []
+}
+=== OpenSearch Serverless collections
+{
+    "collectionSummaries": []
+}
+=== SageMaker endpoints
+{
+    "Endpoints": []
+}
+=== RDS clusters
+{
+    "DBClusters": []
+}
+=== Bedrock knowledge bases
+{
+    "knowledgeBaseSummaries": []
+}

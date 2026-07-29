@@ -1,0 +1,4 @@
+{
+    "Action": "bedrock:CreateProvisionedModelThroughput",
+    "Decision": "explicitDeny"
+}

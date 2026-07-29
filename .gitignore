@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+evidence/**/*.png
+evidence/private/
+reference/course-material/
+build/
+*.zip
+.DS_Store
+.aws-sam/
